@@ -27,10 +27,6 @@ followed by updating the password using:
 ```
 $ ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'new-password';
 ```
-
-$  sudo service mysql stop
-$  sudo service mysql start
-```
 ### View all databases:
 ```
 SHOW DATABASES;
