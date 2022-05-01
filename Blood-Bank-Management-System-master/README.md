@@ -47,20 +47,20 @@ USE bloodbank;
 
 ## Snapshots
 ### Home Page
-![](snapshots/home.png)
+
 ### Contact Us
-![](snapshots/contact.png)
+
 ### Register
-![](snapshots/register.png)
+
 ### Login
-![](snapshots/login.png)
+
 ### Dashboard
-![](snapshots/dashboard.png)
+
 ### Add Donor
-![](snapshots/donate.png)
+
 ### Donor Logs
-![](snapshots/logs.png)
+
 ### Donor Blood Details
-![](snapshots/details.png)
+
 ### Blood Requests
-![](snapshots/requests.png)
+
